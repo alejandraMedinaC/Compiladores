@@ -1,5 +1,5 @@
 # Compiladores
-Analisis Semantico
+Traduccion dirigida por sintaxis
 
 ########Alumnos###########
 - Horacio David Bareiro Palacios CI: 4757679
